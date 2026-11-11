@@ -1,0 +1,33 @@
+{
+    "source": "https://trilha-ugc.pages.dev/",
+    "rippedAt": "2026-11-11T05:33:28+00:00",
+    "files": [
+        "index.html",
+        "assets/index-CsqgZ4_P.js",
+        "ab/landing1/18-29.webp",
+        "ab/landing1/30-39.webp",
+        "ab/landing1/40-49.webp",
+        "ab/landing1/50.webp",
+        "assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2",
+        "apple-touch-icon.png",
+        "favicon.svg",
+        "assets/index-DRbyHCeb.css",
+        "og-image.png",
+        "assets/ResultScreen-CbSB5OWy.js",
+        "assets/confetti-DgEV_XmA.js",
+        "assets/BriefScreen-Ca-IHevk.js",
+        "_external/connect.facebook.net/en_US/fbevents.js",
+        "_external/cdn.utmify.com.br/scripts/pixel/pixel.js",
+        "_external/cdn.utmify.com.br/scripts/utms/latest.js",
+        "assets/plus-jakarta-sans-latin-ext-wght-normal-DmpS2jIq.woff2",
+        "assets/confetti.module-CIeKi3E8.js",
+        "_external/analytics.tiktok.com/i18n/pixel/events.js",
+        "_external/cdn.jsdelivr.net/npm/js-sha256/src/sha256.min.js"
+    ],
+    "errors": [
+        "https://trilha-ugc.pages.dev/1200: HTTP 404",
+        "https://trilha-ugc.pages.dev/630: HTTP 404",
+        "https://connect.facebook.net/signals/iwl.js: HTTP 500",
+        "https://connect.facebook.net/signals/iwl.js?pixel_id=: HTTP 500"
+    ]
+}
